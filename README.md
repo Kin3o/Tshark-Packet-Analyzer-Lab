@@ -1,4 +1,4 @@
-<h1>KineoPiRouter - I accidently deleted this whole entire lab walkthrough :(  (FIX THIS Add walkthrough!!!)</h1>
+<h1>Tshark Packet Analyzer - I accidently deleted this whole entire lab walkthrough :(  (FIX THIS Add walkthrough!!!)</h1>
 
 <h2>Description</h2>
 This project involved designing, configuring, and troubleshooting a Raspberry Pi 5 as a functional network router and wireless access point (WAP). The Raspberry Pi was connected directly to a modem through Ethernet and configured to provide internet access to wireless clients through a custom Wi-Fi network. Throughout the project, I gained hands-on experience with Linux networking, wireless networking, routing, NAT, DHCP, DNS, NetworkManager, and wireless troubleshooting.
